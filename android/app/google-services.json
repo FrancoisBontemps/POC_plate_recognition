@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "599030942467",
+    "firebase_url": "https://pocrecognition.firebaseio.com",
+    "project_id": "pocrecognition",
+    "storage_bucket": "pocrecognition.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:599030942467:android:1dd7b267f9784813ddb736",
+        "android_client_info": {
+          "package_name": "com.example.navigation_sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "599030942467-a913lsgj057d87ejlqqcok8mgcktm7le.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo4CX95koeB5snAhrOOoEsU-KSLTx5sBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "599030942467-a913lsgj057d87ejlqqcok8mgcktm7le.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
